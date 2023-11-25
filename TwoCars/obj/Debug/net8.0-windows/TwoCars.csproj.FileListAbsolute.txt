@@ -1,0 +1,17 @@
+C:\Users\flah\source\repos\TwoCars\TwoCars\bin\Debug\net8.0-windows\TwoCars.exe
+C:\Users\flah\source\repos\TwoCars\TwoCars\bin\Debug\net8.0-windows\TwoCars.deps.json
+C:\Users\flah\source\repos\TwoCars\TwoCars\bin\Debug\net8.0-windows\TwoCars.runtimeconfig.json
+C:\Users\flah\source\repos\TwoCars\TwoCars\bin\Debug\net8.0-windows\TwoCars.dll
+C:\Users\flah\source\repos\TwoCars\TwoCars\bin\Debug\net8.0-windows\TwoCars.pdb
+C:\Users\flah\source\repos\TwoCars\TwoCars\obj\Debug\net8.0-windows\TwoCars.Form1.resources
+C:\Users\flah\source\repos\TwoCars\TwoCars\obj\Debug\net8.0-windows\TwoCars.csproj.GenerateResource.cache
+C:\Users\flah\source\repos\TwoCars\TwoCars\obj\Debug\net8.0-windows\TwoCars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flah\source\repos\TwoCars\TwoCars\obj\Debug\net8.0-windows\TwoCars.AssemblyInfoInputs.cache
+C:\Users\flah\source\repos\TwoCars\TwoCars\obj\Debug\net8.0-windows\TwoCars.AssemblyInfo.cs
+C:\Users\flah\source\repos\TwoCars\TwoCars\obj\Debug\net8.0-windows\TwoCars.csproj.CoreCompileInputs.cache
+C:\Users\flah\source\repos\TwoCars\TwoCars\obj\Debug\net8.0-windows\TwoCars.dll
+C:\Users\flah\source\repos\TwoCars\TwoCars\obj\Debug\net8.0-windows\refint\TwoCars.dll
+C:\Users\flah\source\repos\TwoCars\TwoCars\obj\Debug\net8.0-windows\TwoCars.pdb
+C:\Users\flah\source\repos\TwoCars\TwoCars\obj\Debug\net8.0-windows\TwoCars.genruntimeconfig.cache
+C:\Users\flah\source\repos\TwoCars\TwoCars\obj\Debug\net8.0-windows\ref\TwoCars.dll
+C:\Users\flah\source\repos\TwoCars\TwoCars\obj\Debug\net8.0-windows\TwoCars.Properties.Resources.resources
